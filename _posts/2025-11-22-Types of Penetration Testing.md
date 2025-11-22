@@ -4,7 +4,7 @@ date: 2025-11-22 10:00:00 +0300
 categories: [Cybersecurity, Pentesting]
 tags: [linux, tutorial, hacking]
 ---
-
+date: 2025-11-21 12:00:00 +0000
 Penetration testing often called pen testing is a simulated cyberattack performed by security experts to find weaknesses in an organization’s systems and networks. It’s like hiring a friendly burglar to test your locks: if the burglar breaks in, you learn exactly how to fix the weak spots. By actively trying to exploit vulnerabilities, pen tests reveal hidden flaws that might let a real attacker in. In other words, it’s a controlled security drill that shows your team where defenses need strengthening before any actual breach can happen.
 Types of Penetration Testing
 Penetration tests come in several types, each focusing on a different part of an organization’s security:
